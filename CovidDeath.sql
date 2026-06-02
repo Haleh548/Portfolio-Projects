@@ -1,7 +1,4 @@
 SELECT *
-FROM usa_county_wise;
-
-SELECT *
 FROM worldometer_data; 
 
 SELECT `Country/Region`,Continent, Population,TotalCases,TotalDeaths
